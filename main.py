@@ -13,3 +13,6 @@ def calculate_taxes(prices: list[float], tax_rate: float) -> list[float]:
         taxed_prices.append(price + tax)
 
     return taxed_prices
+
+print("Hollo world!")
+print("Hollo world!!!!")
